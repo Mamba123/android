@@ -1,0 +1,4 @@
+添加唇形图片步骤：
+1：找到新的唇部图片，并存放在assest目录下面
+2：在res下面的strings.xml中的decal_bitmap_items数组中添加相应的名字
+
